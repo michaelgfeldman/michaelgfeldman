@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as a Data Scientist at A-bank
+- 📖 Also I'm a student at Igor Sikorsky Kyiv Polytechnic Institute 
+- 📫 How to reach me: michael.george.feldman@gmail.com
 <!--
 **michaelgfeldman/michaelgfeldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
